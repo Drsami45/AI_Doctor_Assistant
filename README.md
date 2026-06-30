@@ -99,8 +99,8 @@ The app opens in your browser, usually at `http://localhost:8501`.
 
 ## Notes
 
-- Model used: `gemini-1.5-flash` (fast and cost-effective). Change it in `config.py`
-  if you want `gemini-1.5-pro` instead.
+- Model used: `gemini-2.5-flash` (fast and cost-effective). Change it in `config.py`
+  if you want `gemini-2.5-pro` instead.
 - Never commit your `.env` file — it's already excluded via `.gitignore`.
 - For deployment on Streamlit Community Cloud, add `GOOGLE_API_KEY` under
   **App settings → Secrets** instead of relying on `.env`.
