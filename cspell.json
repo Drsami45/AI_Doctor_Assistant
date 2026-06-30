@@ -1,0 +1,5 @@
+{
+"version": "0.2",
+"ignorePaths": [".env", ".venv/**", "uv.lock"],
+"words": ["dotenv", "genai", "langchain", "streamlit"]
+}
